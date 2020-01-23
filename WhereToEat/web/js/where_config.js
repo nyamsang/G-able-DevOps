@@ -1,3 +1,3 @@
 var config = {
-		"api_path": "http://localhost/WhereToEat/api/"
+		"api_path": "../api/"
 };
